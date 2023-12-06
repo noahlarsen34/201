@@ -1,0 +1,10 @@
+mb-2{
+width: 500px;
+height: 500px;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.darkcolor{
+    background-color: rgb(9, 110, 110) !important;
+}
